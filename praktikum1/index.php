@@ -5,8 +5,8 @@ $age = '19';
 $weight = "60";
 
 //panggil variable
-echo "Name: $name
-<br/>Age: $age
-<br/>weight: $weight
+echo "Name:  $name";
+echo "<br> Age: $age";
+echo "<br> weight: $weight";
 
 ?>
